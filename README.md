@@ -1,3 +1,3 @@
 # Learn_Git
 
-Learning Git with GitHub
+Learning Git with GitHub and OpenClassrooms
