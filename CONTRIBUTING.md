@@ -1,1 +1,1 @@
-# Contributin to Learn_Git
+# Contributing to Learn_Git
