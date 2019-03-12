@@ -8,7 +8,9 @@ List of Git commands covered in this course:
 
 - add
 
+- blame
 - log
+- show
 - status
 
 - branch
@@ -19,4 +21,3 @@ List of Git commands covered in this course:
 - pull
 
 - stash
-- 
