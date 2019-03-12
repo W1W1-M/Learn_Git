@@ -6,4 +6,5 @@ List of Git commands covered in this course:
 - 
 - 
 - 
-- 
+- status
+- log
